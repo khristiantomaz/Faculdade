@@ -1,0 +1,15 @@
+C:\Users\Khris\Downloads\curos da udemy\Curso de C#\quarto modulo\programas\bin\Debug\net7.0\programas.exe
+C:\Users\Khris\Downloads\curos da udemy\Curso de C#\quarto modulo\programas\bin\Debug\net7.0\programas.deps.json
+C:\Users\Khris\Downloads\curos da udemy\Curso de C#\quarto modulo\programas\bin\Debug\net7.0\programas.runtimeconfig.json
+C:\Users\Khris\Downloads\curos da udemy\Curso de C#\quarto modulo\programas\bin\Debug\net7.0\programas.dll
+C:\Users\Khris\Downloads\curos da udemy\Curso de C#\quarto modulo\programas\bin\Debug\net7.0\programas.pdb
+C:\Users\Khris\Downloads\curos da udemy\Curso de C#\quarto modulo\programas\obj\Debug\net7.0\programas.csproj.AssemblyReference.cache
+C:\Users\Khris\Downloads\curos da udemy\Curso de C#\quarto modulo\programas\obj\Debug\net7.0\programas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khris\Downloads\curos da udemy\Curso de C#\quarto modulo\programas\obj\Debug\net7.0\programas.AssemblyInfoInputs.cache
+C:\Users\Khris\Downloads\curos da udemy\Curso de C#\quarto modulo\programas\obj\Debug\net7.0\programas.AssemblyInfo.cs
+C:\Users\Khris\Downloads\curos da udemy\Curso de C#\quarto modulo\programas\obj\Debug\net7.0\programas.csproj.CoreCompileInputs.cache
+C:\Users\Khris\Downloads\curos da udemy\Curso de C#\quarto modulo\programas\obj\Debug\net7.0\programas.dll
+C:\Users\Khris\Downloads\curos da udemy\Curso de C#\quarto modulo\programas\obj\Debug\net7.0\refint\programas.dll
+C:\Users\Khris\Downloads\curos da udemy\Curso de C#\quarto modulo\programas\obj\Debug\net7.0\programas.pdb
+C:\Users\Khris\Downloads\curos da udemy\Curso de C#\quarto modulo\programas\obj\Debug\net7.0\programas.genruntimeconfig.cache
+C:\Users\Khris\Downloads\curos da udemy\Curso de C#\quarto modulo\programas\obj\Debug\net7.0\ref\programas.dll
