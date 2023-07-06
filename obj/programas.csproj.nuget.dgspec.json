@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Khris\\Downloads\\curos da udemy\\Curso de C#\\quarto modulo\\programas\\programas.csproj": {}
+    "c:\\Users\\Khris\\Downloads\\curos da udemy\\Curso de C#\\quarto modulo\\programas\\programas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Khris\\Downloads\\curos da udemy\\Curso de C#\\quarto modulo\\programas\\programas.csproj": {
+    "c:\\Users\\Khris\\Downloads\\curos da udemy\\Curso de C#\\quarto modulo\\programas\\programas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Khris\\Downloads\\curos da udemy\\Curso de C#\\quarto modulo\\programas\\programas.csproj",
+        "projectUniqueName": "c:\\Users\\Khris\\Downloads\\curos da udemy\\Curso de C#\\quarto modulo\\programas\\programas.csproj",
         "projectName": "programas",
-        "projectPath": "C:\\Users\\Khris\\Downloads\\curos da udemy\\Curso de C#\\quarto modulo\\programas\\programas.csproj",
+        "projectPath": "c:\\Users\\Khris\\Downloads\\curos da udemy\\Curso de C#\\quarto modulo\\programas\\programas.csproj",
         "packagesPath": "C:\\Users\\Khris\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Khris\\Downloads\\curos da udemy\\Curso de C#\\quarto modulo\\programas\\obj\\",
+        "outputPath": "c:\\Users\\Khris\\Downloads\\curos da udemy\\Curso de C#\\quarto modulo\\programas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

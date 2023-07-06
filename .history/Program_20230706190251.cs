@@ -24,8 +24,10 @@ namespace Calculo
             y.C= double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);  
 
             
-            double areaX = x.Area();
-            double areaY = y.Area();
+            double areaX = x.area();
+
+            p = (y.A + y.B + y.C) / 2.0;
+            double areaY = Math.Sqrt(p * (p- y.A) * (p - y.B) * (p - y.C));
 
            
 
